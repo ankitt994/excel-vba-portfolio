@@ -1,0 +1,6 @@
+# Ignore Excel backup and temp files
+*.xlb
+*.xlsb
+*.tmp
+~$*.xls*
+*.bak
