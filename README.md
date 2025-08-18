@@ -18,5 +18,5 @@
 4. Refresh to rebuild dashboard in seconds.
 
 ## 🧑‍💼 About Me
-I’m **Ankit Tripathi**, MIS Analyst and aspiring top 1% Data Analyst.  
+I’m **Ankit Tripathi**, MIS Analyst (Data Analyst).  
 This project is part of my VBA automation portfolio.
